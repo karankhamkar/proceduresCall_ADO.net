@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CableOperatorApp", "CableOperatorApp\CableOperatorApp.csproj", "{EE889498-AEC3-4E00-A199-0601394E93BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{41A033D3-E924-4B68-BFB9-D9E446ACA08F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE889498-AEC3-4E00-A199-0601394E93BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE889498-AEC3-4E00-A199-0601394E93BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE889498-AEC3-4E00-A199-0601394E93BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE889498-AEC3-4E00-A199-0601394E93BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41A033D3-E924-4B68-BFB9-D9E446ACA08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A033D3-E924-4B68-BFB9-D9E446ACA08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A033D3-E924-4B68-BFB9-D9E446ACA08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A033D3-E924-4B68-BFB9-D9E446ACA08F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D910AACE-5659-40F5-9D1F-17CCA6483C58}
+	EndGlobalSection
+EndGlobal
